@@ -1,3 +1,3 @@
 # ThreeFive
 
-Run node ThreeFive.js
+Run: node ThreeFive.js
